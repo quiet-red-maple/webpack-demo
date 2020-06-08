@@ -1,0 +1,16 @@
+html,
+body {
+  background-color: greenyellow;
+}
+html .content,
+body .content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+html .content div,
+body .content div {
+  width: 100px;
+  height: 100px;
+  background-color: sandybrown;
+}
